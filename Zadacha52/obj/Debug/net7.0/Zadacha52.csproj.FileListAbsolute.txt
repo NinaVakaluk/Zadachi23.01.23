@@ -1,0 +1,15 @@
+/home/nina/Документы/Zadachi23.01.23/Zadacha52/bin/Debug/net7.0/Zadacha52
+/home/nina/Документы/Zadachi23.01.23/Zadacha52/bin/Debug/net7.0/Zadacha52.deps.json
+/home/nina/Документы/Zadachi23.01.23/Zadacha52/bin/Debug/net7.0/Zadacha52.runtimeconfig.json
+/home/nina/Документы/Zadachi23.01.23/Zadacha52/bin/Debug/net7.0/Zadacha52.dll
+/home/nina/Документы/Zadachi23.01.23/Zadacha52/bin/Debug/net7.0/Zadacha52.pdb
+/home/nina/Документы/Zadachi23.01.23/Zadacha52/obj/Debug/net7.0/Zadacha52.csproj.AssemblyReference.cache
+/home/nina/Документы/Zadachi23.01.23/Zadacha52/obj/Debug/net7.0/Zadacha52.GeneratedMSBuildEditorConfig.editorconfig
+/home/nina/Документы/Zadachi23.01.23/Zadacha52/obj/Debug/net7.0/Zadacha52.AssemblyInfoInputs.cache
+/home/nina/Документы/Zadachi23.01.23/Zadacha52/obj/Debug/net7.0/Zadacha52.AssemblyInfo.cs
+/home/nina/Документы/Zadachi23.01.23/Zadacha52/obj/Debug/net7.0/Zadacha52.csproj.CoreCompileInputs.cache
+/home/nina/Документы/Zadachi23.01.23/Zadacha52/obj/Debug/net7.0/Zadacha52.dll
+/home/nina/Документы/Zadachi23.01.23/Zadacha52/obj/Debug/net7.0/refint/Zadacha52.dll
+/home/nina/Документы/Zadachi23.01.23/Zadacha52/obj/Debug/net7.0/Zadacha52.pdb
+/home/nina/Документы/Zadachi23.01.23/Zadacha52/obj/Debug/net7.0/Zadacha52.genruntimeconfig.cache
+/home/nina/Документы/Zadachi23.01.23/Zadacha52/obj/Debug/net7.0/ref/Zadacha52.dll
